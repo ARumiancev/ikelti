@@ -1,0 +1,38 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+body {
+  background-color: #3e8e7e;
+  color: #fadbc6;
+  user-select: none;
+  text-align: center;
+}
+
+.grid {
+  max-width: 600px;
+  padding: 30px;
+  margin: auto;
+  border: 23px solid #faedc6;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 181px;
+}
+
+#question {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+button {
+  min-width: 100px;
+  min-height: 50px;
+  background-color: #fabb51;
+  border: none;
+  border-radius: 8px;
+  /* color: #3e8e7e; */
+  font-weight: 600;
+}
